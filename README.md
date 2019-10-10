@@ -4,7 +4,7 @@ Simulating the Inertial Measurements Unit's and the camera's data to test the VI
 
 Our example:
 <p align="middle">
-	<img src="bin/demo.png" width="400" height="229" />
+	<img src="bin/demo.png" width="700" height="400" />
 </p>
 
 ## Installation
